@@ -18,10 +18,10 @@
     <a href="[your-linkedin]">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="[your-leetcode]">
+<!--     <a href="[your-leetcode]">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-    </a>
-    <a href="mailto:[your-email]">
+    </a> -->
+    <a href="mailto:[omkarkathile3@gmail.com]">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -64,19 +64,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-
+<!--
 ## 📈 GitHub Stats
-
+<!--
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Omkar Kathile]&show_icons=true&theme=radical" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[your-username]&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Omkar Kathile]&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 
 
