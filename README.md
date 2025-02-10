@@ -3,19 +3,20 @@
   <!-- Animated Header with Gradient Text -->
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+[Omkar+Kathile];Third+Year+CS+Student;Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Kathile;Third+Year+CS+Student;Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
     </a>
   </h1>
 
   <!-- Snake Game Contribution Grid -->
-  ![Snake animation](https://github.com/[OmkarKathile007]/[OmkarKathile007]/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/[OmkarKathile007]/[OmkarKathile007]/blob/output/github-contribution-grid-snake.svg)
+
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=[your-username]&color=blueviolet&style=flat" alt="Profile views" /> 
   
   <!-- Social Badges -->
   <p align="center">
-    <a href="[your-linkedin]">
+    <a href="[https://www.linkedin.com/in/omkar-kathile-a552b1287/]">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 <!--     <a href="[your-leetcode]">
