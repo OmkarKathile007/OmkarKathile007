@@ -8,7 +8,7 @@
   </h1>
 
   <!-- Snake Game Contribution Grid -->
- ![Snake animation](https://github.com/[OmkarKathile007]/[OmkarKathile007]/blob/output/github-contribution-grid-snake.svg)
+
 
 
   <!-- Profile Views Counter -->
