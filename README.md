@@ -12,7 +12,7 @@
 
 
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=[your-username]&color=blueviolet&style=flat" alt="Profile views" /> 
+  
   
   <!-- Social Badges -->
   <p align="center">
