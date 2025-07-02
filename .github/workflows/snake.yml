@@ -1,0 +1,30 @@
+name: 🐍 GitHub Contributions Snake
+
+on:
+  # every day at midnight UTC (you can adjust this)
+  schedule:
+    - cron: '0 0 * * *'
+  # manual trigger
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Generate contributions snake
+        uses: platane/github-contributions-snake-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: change output path, e.g. 'assets/snake.gif'
+          # output: 'snake.gif'
+
+      - name: Commit updated snake.gif
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'chore: update contributions snake'
+          author_name: 'github-actions[bot]'
+          author_email: 'github-actions[bot]@users.noreply.github.com'
+          add: 'snake.gif'
