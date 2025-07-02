@@ -1,17 +1,14 @@
 <div align="center">
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <!-- Animated Header with Gradient Text -->
+<img src="https://github.com/OmkarKathile007/Intelliquiz_Main/blob/main/App/Frontend/src/assets/baner3.png" alt="bannerpng"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Kathile;Full-Stack+Developer;;Problem+Solver" alt="Typing SVG" />
     </a>
   </h1>
 
-  <!-- Snake Game Contribution Grid -->
-
-
-
-  <!-- Profile Views Counter -->
   
   
   <!-- Social Badges -->
@@ -22,16 +19,16 @@
 <!--     <a href="[your-leetcode]">
       <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
     </a> -->
-    <a href="mailto:[omkarkathile3@gmail.com]">
+    <a href="mailto:[omkarkathile2026@gmail.com]">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+
+## 🛠️ Technologies Work On
 
 
 <p>
@@ -46,8 +43,9 @@
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Shadcn/UI-%23000000.svg?style=for-the-badge&logoColor=white" alt="Shadcn/UI" />
 
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
  
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 
@@ -63,38 +61,54 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-<!--
-## 📈 GitHub Stats
-<!--
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Omkar Kathile]&show_icons=true&theme=radical" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Omkar Kathile]&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
-
-
-
-## 🎮 Fun Fact
-<!-- Add your own gaming GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B6Y2Z1M2N0eXk2MGY0d3R4dTlqZnE3d3hqbmx1ZGR6bjZ5ZzY5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
-
-When I'm not coding, you can find me:
-- 🎮 Playing competitive games
-- 🎧 Listening to tech podcasts
-- 🚴♂️ Cycling around the city
-- ☕ Exploring new coffee shops
-
-*"First, solve the problem. Then, write the code."* 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Stats
+
 <div align="center">
   
-  ![Thank You](https://img.shields.io/badge/🙏_Thank_You_For_Visiting!-8A2BE2?style=for-the-badge)
+<!-- GitHub Stats Cards -->
+  <a href="https://github.com/OmkarKathile007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmkarKathile007&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarKathile007&layout=compact&theme=radical&langs_count=8" />
+  </a>
   
+<!-- Snake Game Contribution Grid -->
+  ![Contribution Snake](https://raw.githubusercontent.com/OmkarKathile007/OmkarKathile007/output/github-contribution-grid-snake.svg)
+  ![🐍 GitHub Contributions Snake](./snake.gif)
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎮 Fun Fact
+
+<table>
+  <tr>
+    <td width="55%">
+      <h3>When I'm not coding:</h3>
+      <ul>
+        <li>🎮 Playing competitive games</li>
+        <li>🎧 Listening to tech podcasts</li>
+        <li>🚴♂️ Cycling around the city</li>
+        <li>☕ Exploring new coffee shops</li>
+      </ul>
+      <em>"First, solve the problem. Then, write the code."</em>
+    </td>
+    <td width="45%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B6Y2Z1M2N0eXk2MGY0d3R4dTlqZnE3d3hqbmx1ZGR6bjZ5ZzY5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <h2>🙏 Thank You For Visiting!</h2>
 </div>
