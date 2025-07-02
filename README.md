@@ -12,18 +12,7 @@
   
   
   <!-- Social Badges -->
-  <p align="center">
-    <a href="[https://www.linkedin.com/in/omkar-kathile-a552b1287/]">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-<!--     <a href="[your-leetcode]">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-    </a> -->
-    <a href="mailto:[omkarkathile2026@gmail.com]">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+ 
 
 <!-- Animated Divider -->
 
