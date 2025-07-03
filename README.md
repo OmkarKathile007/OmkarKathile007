@@ -87,7 +87,7 @@
         <li>🎧 Listening to tech podcasts</li>
         <li>🚴♂️ Cycling around the city</li>
  
-      </ul>
+   </ul>
       <em>"First, solve the problem. Then, write the code."</em>
     </td>
     <td width="45%">
