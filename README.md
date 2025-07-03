@@ -53,7 +53,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -87,7 +86,7 @@
         <li>🎮 Playing competitive games</li>
         <li>🎧 Listening to tech podcasts</li>
         <li>🚴♂️ Cycling around the city</li>
-        <li>☕ Exploring new coffee shops</li>
+ 
       </ul>
       <em>"First, solve the problem. Then, write the code."</em>
     </td>
