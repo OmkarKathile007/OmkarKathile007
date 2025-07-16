@@ -64,7 +64,7 @@
   
 <!-- GitHub Stats Cards -->
   <a href="https://github.com/OmkarKathile007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmkarKathile007&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmkarKathile007&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarKathile007&layout=compact&theme=radical&langs_count=8" />
   </a>
   
