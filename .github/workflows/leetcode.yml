@@ -1,0 +1,15 @@
+name: LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          LEETCODE_USERNAME: Omkar_Kathile12
