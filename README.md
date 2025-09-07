@@ -57,8 +57,7 @@
 <div align="center">
 
 
-### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Omkar_Kathile12?theme=dark&font=baloo&ext=heatmap)
+
 
 
 ## 📊 GitHub Stats
