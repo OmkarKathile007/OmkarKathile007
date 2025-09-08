@@ -50,8 +50,8 @@
   <img src="https://leetcard.jacoblin.cool/Omkar_Kathile12?theme=dark&font=baloo&ext=heatmap" />
   <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5622AQEfMTkZVu86Dw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1733130467713?e=2147483647&v=beta&t=PISZrvEgVkf_7J09VdjYetHqXscx1F3ds8WnsV1EuyI" width="110" />
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEFw2PsITRwiw/feedshare-shrink_800/B4DZRmPU2LHEAg-/0/1736882081927?e=2147483647&v=beta&t=zxV_dgRttyVNT2-aRTgP5yfzbsEWibry0D8yR4fSvJ8" width="110" />
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQET4EysIwcBeg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721389388845?e=2147483647&v=beta&t=xfzGHzhR67k62UxwHh6bnHZQPzWZTS7ZHm6QluZTz4s" width="110" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEFw2PsITRwiw/feedshare-shrink_800/B4DZRmPU2LHEAg-/0/1736882081927?e=2147483647&v=beta&t=zxV_dgRttyVNT2-aRTgP5yfzbsEWibry0D8yR4fSvJ8" width="95" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQET4EysIwcBeg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721389388845?e=2147483647&v=beta&t=xfzGHzhR67k62UxwHh6bnHZQPzWZTS7ZHm6QluZTz4s" width="80" />
 </p>
 
   </td>
