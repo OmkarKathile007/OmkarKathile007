@@ -56,22 +56,7 @@
 
 ## 🎮 Fun Fact
 
-<table>
-  <tr>
-    <td width="55%">
-      <h3>When I'm not coding:</h3>
-      <ul>
-        <li>🎮 Playing competitive games</li>
-        <li>🎧 Listening to tech podcasts</li>
-        <li>🚴♂️ Cycling around the city</li>
-      </ul>
-      <em>"First, solve the problem. Then, write the code."</em>
-    </td>
-    <td width="45%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B6Y2Z1M2N0eXk2MGY0d3R4dTlqZnE3d3hqbmx1ZGR6bjZ5ZzY5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-    </td>
-  </tr>
-</table>
+
 
 
 <div align="center">
