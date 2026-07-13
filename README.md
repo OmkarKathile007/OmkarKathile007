@@ -9,19 +9,12 @@
   <h1>
     Hi 👋, I'm Omkar Kathile
   </h1>
-  <h3>Full-Stack Developer | Java | Spring Boot | React | Problem Solving</h3>
+
 </div>
 
 ---
 
-## 🚀 About Me
 
-- 💻 Passionate about building scalable full-stack applications  
-- 🌱 Currently focusing on **Spring Boot, React, and System Design**  
-- 🧠 Regularly solving DSA problems on LeetCode  
-- 📫 Reach me via GitHub discussions/issues in my repositories  
-
----
 
 ## 📊 Stats
 
