@@ -70,10 +70,14 @@ for example under /assets/certificates/ -->
 
 ---
 
-## 🎯 Fun Fact
+## 🎯 Achievements 
 
-I enjoy turning real-world ideas into products and continuously improving problem-solving speed with DSA practice.
+- Rank 1 National Level Project Competition at KJEI's
+- 2x National Finalist at Techathon 2.0 and Finshield IITH
+- Received Best Paper Award at Internal Conference(INMEC) for Building AI Voice Agent
+- Knight at Leetcode top 5% in Global max(1860)
+- 2x Project Winner IOT model, Project Review Competition National Lvl
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-</div>
+
+
+
