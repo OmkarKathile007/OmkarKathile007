@@ -72,7 +72,7 @@ for example under /assets/certificates/ -->
 
 ## 🎯 Achievements 
 
-- Rank 1 National Level Project Competition at KJEI's
+- Rank 1 National Level Project Competition (NLPC) Pune
 - 2x National Finalist at Techathon 2.0 and Finshield IITH
 - Received Best Paper Award at Internal Conference(INMEC) for Building AI Voice Agent
 - Knight at Leetcode top 5% in Global max(1860)
