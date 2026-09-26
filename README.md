@@ -36,14 +36,10 @@
   <img src="https://streak-stats.demolab.com?user=OmkarKathile007&theme=tokyonight&hide_border=true&background=1A1B27&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" width="70%" alt="GitHub Streak" />
 </p>
 
-## 🐍 Contribution Snake
+## 💻 `$ cat omkar.log`
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmkarKathile007/OmkarKathile007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmkarKathile007/OmkarKathile007/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/OmkarKathile007/OmkarKathile007/output/github-snake-dark.svg" />
-</picture>
+  <img src="./terminal.svg" width="100%" alt="Animated terminal: whoami, current role, highlights, LeetCode status" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:A855F7,100:EC4899&height=120&section=footer&text=Build%20·%20Learn%20·%20Ship%20·%20Repeat&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
